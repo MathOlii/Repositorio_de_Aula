@@ -8,7 +8,6 @@ Aqui concentro a resolução de exercícios, projetos práticos e atividades das
 
 Para facilitar a navegação, os materiais estão organizados por semestre e disciplina:
 
-* 📁 **6_Semestre/**
   * 📁 **Python/**
     * 📝 `01_Exercícios_Python_MatheusBarbosa_6ºC_Noturno.ipynb`
 * *(Novas disciplinas e semestres serão adicionados conforme a progressão do curso)*
