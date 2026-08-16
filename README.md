@@ -10,7 +10,7 @@ Para facilitar a navegação, os materiais estão organizados por semestre e dis
 
   * 📁 **Python/**
     * 📝 `01_Exercícios_Python_MatheusBarbosa_6ºC_Noturno.ipynb`
-* *(Novas disciplinas e semestres serão adicionados conforme a progressão do curso)*
+* *(Novas atividades e projetos serão adicionados conforme a progressão do curso)*
 
 ## 🛠️ Tecnologias e Ferramentas
 
