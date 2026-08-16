@@ -6,7 +6,7 @@ Aqui concentro a resolução de exercícios, projetos práticos e atividades das
 
 ## 🗂️ Estrutura do Repositório
 
-Para facilitar a navegação, os materiais estão organizados por semestre e disciplina:
+Para facilitar a navegação, os materiais estão organizados por pasta sobre o assunto estudado:
 
   * 📁 **Python/**
     * 📝 `01_Exercícios_Python_MatheusBarbosa_6ºC_Noturno.ipynb`
