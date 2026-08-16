@@ -16,9 +16,9 @@ Para facilitar a navegação, os materiais estão organizados por semestre e dis
 
 Ao longo do curso, diversas tecnologias são exploradas. As principais presentes neste repositório até o momento incluem:
 
-* **Linguagens:** Python (adicione outras como Java, C++, JavaScript conforme o uso)
+* **Linguagens:** Python
 * **Ambientes de Desenvolvimento:** Jupyter Notebook, Google Colab
-* **Conceitos Abordados:** Lógica de Programação, Estruturas de Dados, (adicione outros como POO, Banco de Dados, etc.)
+* **Conceitos Abordados:** Lógica de Programação, Estruturas de Dados, POO e Banco de Dados.
 
 ## 🚀 Objetivo
 
@@ -33,7 +33,7 @@ Mais do que apenas um backup escolar, este repositório visa:
 Estudante de Engenharia de Software
 
 * [GitHub](https://github.com/MathOlii)
-* [LinkedIn](Insira o link para o seu perfil do LinkedIn aqui)
+* [LinkedIn](https://www.linkedin.com/in/matheus-barbosa-a28656179/)
 
 ---
 ⭐️ *Sinta-se à vontade para explorar os códigos e sugerir melhorias!*
